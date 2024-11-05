@@ -1,5 +1,3 @@
-Here’s a comprehensive README.md template for your e-commerce project that outlines the key features, setup, and usage details:
-
 E-Commerce Platform
 
 A full-stack e-commerce application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) designed to provide a seamless online shopping experience with robust admin and user functionalities.
