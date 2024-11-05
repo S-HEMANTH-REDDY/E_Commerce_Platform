@@ -95,23 +95,6 @@ Admin Access
 
 Create an admin account directly in MongoDB or using the Database Seeder (see below).
 
-Environment Variables
-
-Create a .env file in the backend directory and configure the following variables:
-
-# MongoDB
-MONGO_URI=<Your MongoDB Atlas URI>
-
-# JWT
-JWT_SECRET=<Your JWT Secret Key>
-
-# Razorpay
-RAZORPAY_KEY_ID=<Your Razorpay Key ID>
-RAZORPAY_KEY_SECRET=<Your Razorpay Key Secret>
-
-# Other
-NODE_ENV=development
-PORT=5000
 
 Database Seeder
 
